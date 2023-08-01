@@ -40,4 +40,4 @@ The "Calls" tab displays a list of recent call history. Each call history item i
 Acknowledgments
 The Flutter team for providing an amazing framework for building cross-platform mobile applications.
 ## Contact
-If you have any questions or inquiries, you can reach me at shahzadarif545#gmail.com.
+If you have any questions or inquiries, you can reach me at shahzadarif545@gmail.com.
